@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/[languageCode]/sc/[cookie]","/[languageCode]/scs/[cyberSecurity]","/[languageCode]/sl/[legal]","/[languageCode]/sp/[privacy]","/[languageCode]/st/[terms]"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
